@@ -127,3 +127,6 @@ Corre la lista de chequeo.
 ## Jerarquía de fuentes
 N1 norma vigente en vivo › N2 guías del curso › N3 ejercicios del profesor › N4 diapositivas › N5 entregables propios
 bien calificados › N6 lecciones (nunca dato). Si chocan, gana el nivel más alto y se anota.
+
+---
+© 2026 Javier Gómez M. · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · https://github.com/ingjaviergomezm/Especialista_en_EREE — cualquier uso o derivado debe dar crédito al autor.

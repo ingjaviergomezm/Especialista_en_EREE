@@ -10,3 +10,5 @@
 **No son datos vigentes del mercado colombiano.** Para un análisis real, el precio de bolsa, la disponibilidad y la demanda se descargan de XM (Sinergox / SIMEM) con la fecha de corte.
 
 Las series `PRECIOS_HIDRO` (en `test_evaluacion_financiera.py`) y `SOLAR_CURSO`/`DEMANDA_CURSO` (en `despacho_economico.py`) tienen el mismo origen académico y el mismo uso.
+
+**Licencia:** estos datos no son obra del autor del repositorio y quedan **excluidos** de la licencia CC BY 4.0 del proyecto.

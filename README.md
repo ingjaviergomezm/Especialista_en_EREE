@@ -10,6 +10,7 @@
 ![pruebas](https://img.shields.io/badge/pytest-149_pasan-7AB87A?style=flat-square&labelColor=0E0E0C)
 ![normativa](https://img.shields.io/badge/normativa-corte_2026--11-B5B0A4?style=flat-square&labelColor=0E0E0C)
 ![python](https://img.shields.io/badge/python-3.11+-B5B0A4?style=flat-square&labelColor=0E0E0C)
+[![licencia](https://img.shields.io/badge/licencia-CC_BY_4.0-B5B0A4?style=flat-square&labelColor=0E0E0C)](LICENSE)
 
 </div>
 
@@ -197,6 +198,28 @@ skills/
 - **No reemplazan el software especializado.** Para el diseño final se remiten a PVsyst, HOMER Pro o LEAP; los scripts sirven para dimensionar, verificar y decidir.
 - **No son asesoría financiera ni legal.** Los incentivos tributarios se modelan con cifras que entrega el contador del cliente.
 - **No se actualizan solas.** La normativa tiene `fecha_corte: 2026-11`; [`COMO_ACTUALIZAR.md`](skills/proyectos-er/COMO_ACTUALIZAR.md) describe la revisión semestral.
+
+---
+
+## Licencia y cómo dar crédito
+
+Este repositorio está bajo **[Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE)**.
+
+**Puedes**, incluso con fines comerciales:
+- usar las skills, los scripts y las referencias;
+- copiarlos, adaptarlos y redistribuirlos.
+
+**Siempre debes dar crédito.** Cualquier uso, copia o derivado debe:
+1. nombrar al autor: **Javier Gómez M.**;
+2. enlazar este repositorio;
+3. enlazar la licencia;
+4. indicar si hiciste cambios.
+
+Formato de atribución sugerido:
+
+> *Especialista en EREE* — Javier Gómez M. (2026). https://github.com/ingjaviergomezm/Especialista_en_EREE · Licencia CC BY 4.0 · [modificado por …]
+
+Los datos de prueba de origen académico (ver [Créditos](#créditos)) no son obra del autor y no quedan cubiertos por esta licencia.
 
 ---
 

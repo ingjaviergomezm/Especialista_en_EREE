@@ -143,3 +143,6 @@ consulta, pendientes y qué falta para el siguiente nivel de estudio. Corre la l
 N1 norma oficial vigente consultada en vivo › N2 guías oficiales del curso › N3 ejercicios del profesor › N4
 diapositivas › N5 entregables propios bien calificados (ejemplo, no método) › N6 lecciones de errores (nunca dato).
 Cuando dos fuentes chocan, gana la de nivel más alto y se anota el choque.
+
+---
+© 2026 Javier Gómez M. · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · https://github.com/ingjaviergomezm/Especialista_en_EREE — cualquier uso o derivado debe dar crédito al autor.

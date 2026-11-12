@@ -119,3 +119,6 @@ técnico y no publicitario. Anexos: supuestos, trazabilidad, normas con fecha de
 ## Jerarquía de fuentes
 N1 norma y dato oficial en vivo › N2 guías del curso › N3 ejercicios del profesor (ipynb de despacho) › N4 diapositivas
 › N5 entregables propios bien calificados › N6 lecciones (nunca dato).
+
+---
+© 2026 Javier Gómez M. · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · https://github.com/ingjaviergomezm/Especialista_en_EREE — cualquier uso o derivado debe dar crédito al autor.
