@@ -11,4 +11,4 @@
 
 Las series `PRECIOS_HIDRO` (en `test_evaluacion_financiera.py`) y `SOLAR_CURSO`/`DEMANDA_CURSO` (en `despacho_economico.py`) tienen el mismo origen académico y el mismo uso.
 
-**Licencia:** estos datos no son obra del autor del repositorio y quedan **excluidos** de la licencia CC BY 4.0 del proyecto.
+**Licencia:** estos datos no son obra del autor del repositorio y quedan **excluidos** de la licencia del proyecto.

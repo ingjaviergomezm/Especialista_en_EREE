@@ -129,4 +129,4 @@ N1 norma vigente en vivo › N2 guías del curso › N3 ejercicios del profesor 
 bien calificados › N6 lecciones (nunca dato). Si chocan, gana el nivel más alto y se anota.
 
 ---
-© 2026 Javier Gómez M. · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · https://github.com/ingjaviergomezm/Especialista_en_EREE — cualquier uso o derivado debe dar crédito al autor.
+© 2026 Javier Gómez M. — Todos los derechos reservados. Uso permitido sin modificar; prohibido reproducir, modificar, vender o atribuirse la autoría sin autorización escrita del autor. Licencia: https://github.com/ingjaviergomezm/Especialista_en_EREE/blob/main/LICENSE

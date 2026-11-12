@@ -10,7 +10,7 @@
 ![pruebas](https://img.shields.io/badge/pytest-149_pasan-7AB87A?style=flat-square&labelColor=0E0E0C)
 ![normativa](https://img.shields.io/badge/normativa-corte_2026--11-B5B0A4?style=flat-square&labelColor=0E0E0C)
 ![python](https://img.shields.io/badge/python-3.11+-B5B0A4?style=flat-square&labelColor=0E0E0C)
-[![licencia](https://img.shields.io/badge/licencia-CC_BY_4.0-B5B0A4?style=flat-square&labelColor=0E0E0C)](LICENSE)
+[![licencia](https://img.shields.io/badge/licencia-todos_los_derechos_reservados-B5B0A4?style=flat-square&labelColor=0E0E0C)](LICENSE)
 
 </div>
 
@@ -141,6 +141,8 @@ Cada dato lleva su nivel. Cuando dos fuentes chocan, gana la de nivel más alto 
 
 ## Instalación
 
+> La [licencia](LICENSE) permite instalar las skills **sin modificarlas** para tu propio uso. Redistribuirlas, modificarlas o venderlas requiere autorización escrita del autor.
+
 ### Claude Code
 
 ```bash
@@ -201,25 +203,19 @@ skills/
 
 ---
 
-## Licencia y cómo dar crédito
+## Licencia
 
-Este repositorio está bajo **[Creative Commons Atribución 4.0 Internacional (CC BY 4.0)](LICENSE)**.
+**© 2026 Javier Gómez M. Todos los derechos reservados.** Este repositorio es público para consulta, pero **no es código abierto**. Ver [LICENSE](LICENSE).
 
-**Puedes**, incluso con fines comerciales:
-- usar las skills, los scripts y las referencias;
-- copiarlos, adaptarlos y redistribuirlos.
+| ✅ Se permite | ⛔ Se prohíbe sin autorización escrita del autor |
+|---|---|
+| Leer y consultar el repositorio | Copiar, reproducir o redistribuir la obra, total o parcialmente |
+| Instalar las skills **sin modificarlas** en tu propio entorno y usarlas en tu trabajo | Modificarla o crear obras derivadas |
+| Usar los resultados que produzcan (informes, cálculos) bajo tu responsabilidad | Venderla, sublicenciarla o incluirla en productos o servicios pagos |
+| | Atribuirse la autoría o eliminar los avisos de autor |
+| | Usarla para entrenar modelos de IA |
 
-**Siempre debes dar crédito.** Cualquier uso, copia o derivado debe:
-1. nombrar al autor: **Javier Gómez M.**;
-2. enlazar este repositorio;
-3. enlazar la licencia;
-4. indicar si hiciste cambios.
-
-Formato de atribución sugerido:
-
-> *Especialista en EREE* — Javier Gómez M. (2026). https://github.com/ingjaviergomezm/Especialista_en_EREE · Licencia CC BY 4.0 · [modificado por …]
-
-Los datos de prueba de origen académico (ver [Créditos](#créditos)) no son obra del autor y no quedan cubiertos por esta licencia.
+Los créditos son exclusivamente del autor. Para pedir una autorización, escribe a través de [github.com/ingjaviergomezm](https://github.com/ingjaviergomezm).
 
 ---
 

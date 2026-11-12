@@ -145,4 +145,4 @@ diapositivas › N5 entregables propios bien calificados (ejemplo, no método) �
 Cuando dos fuentes chocan, gana la de nivel más alto y se anota el choque.
 
 ---
-© 2026 Javier Gómez M. · [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) · https://github.com/ingjaviergomezm/Especialista_en_EREE — cualquier uso o derivado debe dar crédito al autor.
+© 2026 Javier Gómez M. — Todos los derechos reservados. Uso permitido sin modificar; prohibido reproducir, modificar, vender o atribuirse la autoría sin autorización escrita del autor. Licencia: https://github.com/ingjaviergomezm/Especialista_en_EREE/blob/main/LICENSE
